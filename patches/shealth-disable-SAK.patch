@@ -1,5 +1,5 @@
---- smali_classes5/com/samsung/android/app/shealth/j0/b/m.smali
-+++ smali_classes5/com/samsung/android/app/shealth/j0/b/m.smali
+--- smali_classes6/com/samsung/android/app/shealth/j0/b/m.smali
++++ smali_classes6/com/samsung/android/app/shealth/j0/b/m.smali
 @@ -18,47 +18,11 @@
  
  

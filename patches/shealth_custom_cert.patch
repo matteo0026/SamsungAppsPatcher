@@ -1,5 +1,5 @@
---- smali_classes2/com/samsung/android/app/shealth/util/k0.smali
-+++ smali_classes2/com/samsung/android/app/shealth/util/k0.smali
+--- smali_classes3/com/samsung/android/app/shealth/util/k0.smali
++++ smali_classes3/com/samsung/android/app/shealth/util/k0.smali
 @@ -24,10 +24,12 @@
  
  .field private static final j:[Landroid/content/pm/Signature;
