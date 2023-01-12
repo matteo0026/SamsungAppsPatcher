@@ -1,6 +1,6 @@
---- smali_classes6/com/samsung/android/app/shealth/j0/b/m.smali
-+++ smali_classes6/com/samsung/android/app/shealth/j0/b/m.smali
-@@ -18,47 +18,11 @@
+--- smali_classes3/pi/m.smali
++++ smali_classes3/pi/m.smali
+@@ -17,47 +17,11 @@
  
  
  # virtual methods
@@ -9,7 +9,7 @@
 -    .locals 2
 +    .locals 1
  
--    const-string v0, "ro.security.keystore.keytype"
+-    const-string/jumbo v0, "ro.security.keystore.keytype"
 -
 -    const-string v1, ""
 -
